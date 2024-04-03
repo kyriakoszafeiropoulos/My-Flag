@@ -1,0 +1,73 @@
+.blue {
+    background-color: blue;
+    height: 900px;
+    width: 1500px;
+    position: relative;
+
+}
+
+#square {
+    height: 500px;
+    width: 500px;
+    position: absolute;
+}
+
+#hor {
+    background-color: white;
+    width: 100px;
+    height: 500px;
+    position: absolute;
+    left: 200px;
+
+}
+
+#ver {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+}
+
+#ver2 {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    left:  300px;
+}
+
+.med {
+    background-color: white;
+    height: 100px;
+    width: 1000px;
+    position: relative;
+    left: 500px;
+    
+}
+
+#med {
+    top:100px;
+}
+
+#med2 {
+    top: 200px;
+}
+
+.big {
+    height: 100px;
+    width: 1500px;
+    background-color: white;
+}
+
+#big1 {
+    position: absolute;
+    top: 500px;
+}
+
+#big2 {
+    position: absolute;
+    top: 700px;
+}
+
